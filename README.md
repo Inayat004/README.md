@@ -6,7 +6,6 @@ Computer Science student with a fervent dedication to exploring ethical hacking,
 
 - 🔭 I’m currently working on Capstone Project
 - 🌱 I’m currently learning Blockchain
-- 📫 How to reach me: __________
 
 ## 🚀 My Skills
 
